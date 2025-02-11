@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "933376500398",
+    "project_id": "fusion-x-car-wash",
+    "storage_bucket": "fusion-x-car-wash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933376500398:android:bb3f0f4513b5a0e8cf833f",
+        "android_client_info": {
+          "package_name": "com.fusionxcarwash.fusionxcar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-L7gcbxZR2EJxz6E0_T-24_QYGSk1WGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
